@@ -1,9 +1,9 @@
 {
-  "name": "vendure-plugin-template",
+  "name": "vendure-plugin-recaptcha",
   "version": "1.0.0",
-  "description": "Plugin template",
-  "author": "Martijn van de Brug <martijn@pinelab.studio>",
-  "repository": "https://github.com/vendure-ecommerce/plugin-template",
+  "description": "google recaptcha",
+  "author": "Ashish Khetarpal <ashish.kpaul@gmail.com>",
+  "repository": "https://github.com/ashishkpaul/vendure-plugin-template.git",
   "license": "MIT",
   "private": false,
   "engines": {
